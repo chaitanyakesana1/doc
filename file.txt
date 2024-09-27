@@ -1,2 +1,3 @@
- am good employee
+employee
+ good nature
 i am godc
