@@ -1,2 +1,8 @@
+<<<<<<< HEAD
  am good employee
 i c good bad nature
+=======
+employee
+ good nature
+i am godc
+>>>>>>> dev1
